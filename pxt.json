@@ -1,0 +1,22 @@
+{
+    "name": "gamepadlet",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "GHBit": "github:lzty634158/ghbit#f1f892562a8a9c735c2f10ac8152cddb81ccbb98"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
